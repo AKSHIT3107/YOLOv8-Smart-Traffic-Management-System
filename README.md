@@ -38,13 +38,13 @@ Based on detections, the system **dynamically adjusts traffic lights** in real-t
 
 ##🔮 Future Improvements
 
--Low-light & night vision detection (IR cameras)
--Cloud dashboard for multiple intersections
--Integration with real traffic light controllers
--Multi-lane congestion optimization with database logging
+-**Low-light & night vision detection **(IR cameras)
+-**Cloud dashboard for multiple intersections**
+-**Integration with real traffic light controllers**
+-**Multi-lane congestion optimization with database logging**
 
 ---
 
 ##👨‍💻 Author
-Akshit
+**Akshit**
 
