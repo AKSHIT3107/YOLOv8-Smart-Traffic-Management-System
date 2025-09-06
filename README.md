@@ -33,3 +33,18 @@ Based on detections, the system **dynamically adjusts traffic lights** in real-t
 | Reduction in Average Traffic Wait Time        | **25%** |
 | Emergency Vehicle Priority Response Time      | **<2 seconds** |
 
+
+---
+
+##🔮 Future Improvements
+
+-Low-light & night vision detection (IR cameras)
+-Cloud dashboard for multiple intersections
+-Integration with real traffic light controllers
+-Multi-lane congestion optimization with database logging
+
+---
+
+##👨‍💻 Author
+Akshit
+
