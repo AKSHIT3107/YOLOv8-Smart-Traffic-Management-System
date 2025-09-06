@@ -36,15 +36,16 @@ Based on detections, the system **dynamically adjusts traffic lights** in real-t
 
 ---
 
-##🔮 Future Improvements
-
--**Low-light & night vision detection **(IR cameras)
--**Cloud dashboard for multiple intersections**
--**Integration with real traffic light controllers**
--**Multi-lane congestion optimization with database logging**
+## 🔮 Future Improvements  
+- 🌙 Improve detection in low-light and night conditions using **IR cameras** and **image enhancement techniques**  
+- ☁️ Deploy a **cloud-based dashboard** for monitoring multiple intersections in real-time  
+- 🚦 Integration with **real-world traffic light controllers** for large-scale implementation  
+- 📊 Add **multi-lane congestion optimization** with database logging & predictive analytics  
+- 🤖 Explore **reinforcement learning** for adaptive signal timing optimization  
 
 ---
 
-##👨‍💻 Author
-**Akshit**
+## 👨‍💻 Author  
+**Akshit**  
+- ✉️ Email: kharbakshit010@gmail.com  
 
