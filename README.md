@@ -30,6 +30,6 @@ Based on detections, the system **dynamically adjusts traffic lights** in real-t
 |-------------------------------------------|----------|
 | Emergency Vehicle Detection Accuracy (mAP@50) | **92%** |
 | Average Inference Latency (on Raspberry Pi 4) | **<200 ms** |
-| Reduction in Average Traffic Wait Time        | **35%** |
+| Reduction in Average Traffic Wait Time        | **25%** |
 | Emergency Vehicle Priority Response Time      | **<2 seconds** |
 
